@@ -6,4 +6,4 @@ repos:
       entry: bash .pre-commit-hooks/run_nbdev_on_staged_files.sh # path to the script
       language: system # how to run the script
       types: [jupyter] # what to run it on
-      stages: [commit] # when to run it
+      stages: [pre-commit] # when to run it
