@@ -1,0 +1,3 @@
+[submodule "MorphoPy"]
+	path = MorphoPy
+	url = https://github.com/berenslab/MorphoPy.git
